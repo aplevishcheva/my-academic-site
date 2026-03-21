@@ -1,70 +1,32 @@
 ---
-title: ⚡️ Turn Jupyter Notebooks into Blog Posts
-summary: Publish your data science and research directly from Jupyter Notebooks. No screenshots required.
-date: 2024-07-15
+title: Моя прошедшая неделя 🥰🥰🥰
+summary: Дорогие подписчики, рада Вас снова поприветствовать в моем хайповом канале. А вы знали, что люди до нас, ананас, знали много раз, что вампиры существуют и ...
+date: 2026-03-21
 authors:
   - me
 tags:
-  - Hugo Blox
-  - Jupyter
-  - Open Science
-  - Tutorials
+  - Вампиры существуют
+  - Love
+  - Антихайп
+  - Эщкере
 cover:
   # image: cover.jpg  # Auto-detected from cover image in this folder
   icon:
-    name: "📔"
+    name: "🥵"
 image:
   caption: "Image credit: [HugoBlox](https://hugoblox.com)"
   focal_point: Center
-  placement: 1
+  placement: 10
 content_meta:
   trending: true
 ---
 
-As a researcher or data scientist, your work often lives in Jupyter Notebooks. But sharing those insights effectively usually means taking screenshots, messy copy-pasting, or exporting to PDF.
+ВАМПИРЫ СУЩЕСТВУЮТ!!! Мои доказательства и фанты:
 
-Hugo Blox changes that. With the `{{</* notebook */>}}` shortcode, you can render your actual `.ipynb` files directly as beautiful, interactive blog posts or project pages. Keep your code, outputs, and narrative in one place.
+Невозможно человеку придумать что-то с нуля. Сами посудите!! Мозг не способен придумать то, чего в мире не существует... НЕ МОГ человек так детализированно и детально распродумать все про вампиров. ВСЮ ИХ ЖИЗНЬ, ВСЮ ПОДНОГОДНУЮ!!! Все нюансы... ИЗВИНИТЕ МЕНЯ, ЭТО НЕВОЗМОЖНО!
 
-{{< toc mobile_only=true is_open=true >}}
+Вы знаете мое отношение с плоской землей. Я верю в то, что так оно и есть. Потомукто люди до нас, ананас, знали много раз. Точно так же и с вампирами!
 
-## Why publish notebooks?
+Неспроста были придуманы гильотина, осатиновый кол... Думаете это просто так??? НЕТ! Это точно существовало! И существует по сей день... Зачем тогда банки крови?! Вы что думаете, если кто-то сейчас попадет в реанимаию ему,.. Думаете ему кровь просто так перельют? ЩАС!!! Должны будет 500 родственников еще скинуться, пойти везде понасдавать крови, чтобы тому человеку ту кровь перелили. Это вообще как?!? То есть получается кровь прост так не получить... Зачем крови столько? Еще да и разной... Я ДУМАЮ ВЫ ЗНАЕТЕ ОТВЕТ! 
 
-> [!TIP]
-> **Reproducible Research**: By publishing the actual notebook, you allow others to download and run your code, verifying your results and building upon your work.
-
-- **No more screenshots** – Render crisp code and vector plots directly from your source.
-- **Theme consistent** – Notebooks automatically adapt to your site's theme (including dark mode).
-- **Flexible sourcing** – Display notebooks from your `assets/` folder, page bundles, or even directly from a remote GitHub URL.
-- **Interactive** – Users can copy code blocks or download the full notebook to run locally.
-
-## Example: Data Science Workflow
-
-Below is a live example of a notebook rendered right here in this post. Notice how the markdown, code, and outputs (text, HTML, and JSON) are all preserved and styled.
-
-{{< notebook
-    src="hugoblox-onboarding.ipynb"
-    title="Launch Readiness Analysis"
-    show_metadata=true
-    line_numbers=true
-    dense=false
-    download_label="Download notebook"
-    show_outputs=true
->}}
-
-## How to add a notebook
-
-1. **Save your notebook.** Place your `.ipynb` file in `assets/notebooks/` (for global access) or inside a page bundle (like `content/blog/my-post/analysis.ipynb`).
-2. **Add the shortcode.** In any Markdown page, simply use:
-   `{{</* notebook src="analysis.ipynb" */>}}`
-3. **Customize.** You can hide code cells for non-technical audiences (`show_code=false`) or just show the output (`show_outputs=true`).
-
-> [!IMPORTANT]
-> Hugo Blox respects your privacy. Notebook rendering happens statically at build time—no third-party services required.
-
-## Next steps
-
-- **Try it out:** Drop one of your existing notebooks into this site and see how it looks.
-- **Link your papers:** Use the Embed shortcode to link your notebook to your latest arXiv preprint or GitHub repository.
-- **Get help:** Join the community on [Discord](https://discord.gg/z8wNYzb) or check the [documentation](https://docs.hugoblox.com).
-
-Happy researching! 🚀
+Следующее. Думаете птиродаптели или рептилоиды управляют миром? ЩАС!!! Как раз таки вампиры! Потому то они живут оочень долго... У них есть все шансы добраться до верхушки правления. Скорее всего они и добрались. Я верю, что именно вампиры управляют миром! По крайней мере нашим...
